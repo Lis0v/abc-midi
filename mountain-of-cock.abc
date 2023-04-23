@@ -6,7 +6,12 @@ K:C
 Q:160
 V:1
 %%MIDI program 46
+%%MIDI drumon
+%%MIDI drum dz4dz4dz8 77 64 77 
+%%MIDI control 7 72
 |:CDFA cdfa|CDFA DEGB|CDFA cdfa|AFCD B2G2  :|
 |:CDA4     |CDA2 CDB4|CDA4     |CDAF CFB2G2:|
 V:2 clef=bass-8
 %%MIDI program 32
+|:C2A,D3   |C2A,D3   |C2D2C8   |z8          |
+| C2A,D3   |C2A,D3   |C2D2F8   |z8         :|

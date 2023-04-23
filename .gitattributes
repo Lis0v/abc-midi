@@ -1,1 +1,2 @@
+*.abc linguist-detectable
 *.abc linguist-language=abc

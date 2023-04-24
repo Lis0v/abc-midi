@@ -1,0 +1,3 @@
+#!/bin/sh
+abc2midi $1
+fluidsynth -i *.mid gm.sf2

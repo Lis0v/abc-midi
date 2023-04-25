@@ -11,7 +11,7 @@ V:1
 %| dcA2 d2e2|D2d2 A2ze|dcA2 A2de|D2d2 A2z2|
 V:2
 %%MIDI program 11
-|:a4   e4  |e4	 e4	 |         |	      :|
+|:a4   e4  |e4	 e4	 |         |        :|
 | a4   e4  |e4   e4	 |e4   d4  |d4	 c4  |
 V:3
 %%MIDI channel 10

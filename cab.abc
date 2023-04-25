@@ -12,7 +12,7 @@ V:1
 V:2
 %%MIDI program 11
 |:a4   e4  |e4   e4  |         |        :|
-| a4   e4  |e4   e4  |e4   d4  |d4	 c4  |
+| a4   e4  |e4   e4  |e4   d4  |d4   c4  |
 V:3
 %%MIDI channel 10
 |:B,,,z3 B,,,z2B,,,:|

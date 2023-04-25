@@ -5,3 +5,4 @@ function ctrl_c(){
 }
 abc2midi $1.abc
 fluidsynth -i $1*.mid gm.sf2
+rm *.mid

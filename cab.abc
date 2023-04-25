@@ -2,9 +2,37 @@ X:1
 T:cock and balls
 M:4/4
 C:lsv12
-K:D
-Q:120
+K:C
+Q:115
 V:1
 %%MIDI 7 128
 %%MIDI program 10
-|::|
+%| dcA2 d2e2|D2d2 A2ze|dcA2 d2e2|D2d2 c2ze|
+%| dcA2 d2e2|D2d2 A2ze|dcA2 A2de|D2d2 A2z2|
+V:2
+%%MIDI program 11
+|:a4   e4  |e4	 e4	 |		   |	    :|
+| a4   e4  |e4   e4	 |e4   d4  |d4	 c4	 |
+V:3
+%%MIDI channel 10
+|:B,,,z3 B,,,z2B,,,:|
+|:B,,,z3 B,,,z2B,,,:|
+|:B,,,z3 B,,,z2B,,,:|
+|:B,,,z3 B,,,z2B,,,:|
+V:4
+%%MIDI channel 10
+|:z4 efef:|
+|:z4 efef:|
+|:z4 efef:|
+|:z4 efef:|
+V:5
+%%MIDI channel 10
+|:z2 ^G,,z2^G,,z2:|
+|:z2 ^G,,z2^G,,z2:|
+|:z2 ^G,,z2^G,,z2:|
+|:z2 ^G,,z2^G,,z2:|
+V:6 clef=bass-8
+%%MIDI program 32
+|A,z7|A,z5 A,2C|z7|
+|:A,z5 A,2C|z7:|
+|A,z5 A,2C|z7|

@@ -1,0 +1,12 @@
+X:1
+T: balls
+C: lsv12
+M:4/4
+K: C
+Q:120
+V:1
+%%MIDI program 12
+|:A,3C1 A3c1 |E3e1 A2C2 :|
+V:2
+%%MIDI program 12
+|:c4a1 C3A,1 |d2D2 b1E3 :|
